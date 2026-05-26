@@ -41,6 +41,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaira-binte-aziz/)
 
 </div>
+
 ---
 I'm working towards building handy projects and collaborating on open-source works.
 Please feel welcome to check out my repositories!
