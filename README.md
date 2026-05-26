@@ -5,11 +5,11 @@
 
 <!-- About me -->
 - 🎓 Undergraduate CSE student and tech enthusiast
-- 💡 Interested in **Artificial Intelligence, Machine Learning and building useful things**
-- 🔭 Currently working on **personal Python & ML projects**
+- 💡 Interested in Artificial Intelligence, Machine Learning and building useful things
+- 🔭 Currently working on personal Python & ML projects
 - 🎯 Goal: Keep building cool projects and improve my portfolio
 - 💌 shaira.aziz25@gmail.com
-
+  
 ---
 
 <!-- About me -->
@@ -28,12 +28,11 @@
 <!-- Currently learning -->
 ### 📚 Currently Learning
 
-- ☕ **Java** — getting comfortable with typed languages
-- 🐼 **pandas** — going deeper into data manipulation
-- 🧠 **AI & ML concepts** — Kaggle courses & personal projects
+- **Java** — getting comfortable with typed languages
+- **pandas** — going deeper into data manipulation
+- **AI & ML concepts** — Kaggle courses & personal projects
 
 ---
-
 
 <!-- Connect -->
 ### 🌸 Let's Connect
@@ -49,9 +48,7 @@
 ---
 I'm working towards building handy projects and collaborating on open-source projects.
 Please feel welcome to check out my repositories!
-
 ---
-
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
