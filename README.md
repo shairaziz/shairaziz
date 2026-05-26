@@ -26,9 +26,9 @@
 <!-- Currently learning -->
 ### 📚 Currently Learning
 
-- **Java** 
-- **pandas** — deep knowledge into data manipulation
-- **AI & ML concepts** — Kaggle courses & personal projects
+- Java
+- pandas — deep knowledge into data manipulation
+- AI & ML concepts — Kaggle courses & personal projects
 
 ---
 <!-- Connect -->
