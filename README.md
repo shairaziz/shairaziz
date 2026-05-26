@@ -5,10 +5,11 @@
 <!-- Intro -->
 <div align="left">
   <p>
-    🎓 Undergraduate CSE student and tech enthusiast
-    💡 Interested in **Artificial Intelligence, Machine Learning and building useful things**
-    🔭 Currently working on **personal Python & ML projects**
-     💌 shaira.aziz25@gmail.com
+    - 🎓 Undergraduate CSE student and tech enthusiast
+    - 💡 Interested in **Artificial Intelligence, Machine Learning and building useful things**
+    - 🔭 Currently working on **personal Python & ML projects**
+    - 🎯 Goal: Keep building cool projects and improve my portfolio
+    - 💌 shaira.aziz25@gmail.com
   </p>
 </div>
 
