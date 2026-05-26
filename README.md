@@ -11,7 +11,6 @@
 - 💌 shaira.aziz25@gmail.com
   
 ---
-
 <!-- Technologies & Skills -->
 ### 🛠️ Technologies & Skills
 
@@ -24,16 +23,14 @@
 - Canva(designing)
 
 ---
-
 <!-- Currently learning -->
 ### 📚 Currently Learning
 
-- **Java** — getting comfortable with typed languages
-- **pandas** — going deeper into data manipulation
+- **Java** 
+- **pandas** — deep knowledge into data manipulation
 - **AI & ML concepts** — Kaggle courses & personal projects
 
 ---
-
 <!-- Connect -->
 ### 🌸 Let's Connect
 
@@ -44,7 +41,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaira-binte-aziz/)
 
 </div>
-
 ---
 I'm working towards building handy projects and collaborating on open-source works.
 Please feel welcome to check out my repositories!
