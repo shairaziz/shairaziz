@@ -4,7 +4,7 @@
 </div>
 
 <!-- About me -->
-- 🎓 Undergraduate CSE student and a tech enthusiast!
+- 🎓 An undergraduate CSE student and a tech enthusiast!
 - 💡 Interested in Artificial Intelligence, Machine Learning and building useful things
 - 🔭 Currently working on personal Python & ML projects
 - 🎯 Goal: Keep building cool projects and improve my portfolio
@@ -46,7 +46,7 @@
 </div>
 
 ---
-I'm working towards building handy projects and collaborating on open-source projects.
+I'm working towards building handy projects and collaborating on open-source works.
 Please feel welcome to check out my repositories!
 
 ---
