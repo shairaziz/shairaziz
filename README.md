@@ -12,7 +12,7 @@
   
 ---
 <!-- Technologies & Skills -->
-### Technologies & Skills
+### 🔧 Technologies & Skills
 
 - Python(Intermediate), HTML, CSS, Java(Beginner)
 - Assembly(Beginner)
@@ -21,7 +21,7 @@
 
 ---
 <!-- Currently learning -->
-### Currently Learning
+### 📌 Currently Learning
 
 - Java
 - pandas 
