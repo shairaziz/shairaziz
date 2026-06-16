@@ -40,13 +40,8 @@
 
 
 </div>
-
----
-<div align="center">
   
 Feel welcome to check out my repositories!
-
-</div>
 
 ---
 <!-- Footer -->
