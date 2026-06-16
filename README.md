@@ -14,12 +14,9 @@
 <!-- Technologies & Skills -->
 ### Technologies & Skills
 
-- Python(Intermediate, AI/ML)
-- HTML, CSS
-- Java(Beginner)
+- Python(Intermediate), HTML, CSS, Java(Beginner)
 - Assembly(Beginner)
 - MySQL(read/write queries)
-- NumPy, pandas
 - Canva(designing)
 
 ---
@@ -27,7 +24,7 @@
 ### Currently Learning
 
 - Java
-- pandas — deep knowledge into data manipulation
+- pandas 
 - AI & ML concepts — Kaggle courses & personal projects
 
 ---
