@@ -1,18 +1,18 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Hi,%20I'm%20Shaira%20Binte%20Aziz!%20👋&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Hi,%20I'm%20Shaira%20Binte%20Aziz!%20&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32" />
 </div>
 
 <!-- About me -->
-- 🎓 An undergraduate CSE student and a tech enthusiast!
-- 💡 Interested in Artificial Intelligence, Machine Learning and building useful things
-- 🔭 Currently working on personal Python & ML projects
-- 🎯 Goal: Keep building cool projects and improve my portfolio
+-  An undergraduate CSE student and a tech enthusiast!
+-  Interested in Artificial Intelligence, Machine Learning and building useful things
+-  Currently working on personal Python & ML projects
+-  Goal: Keep building cool projects and improve my portfolio
 - 💌 shaira.aziz25@gmail.com
   
 ---
 <!-- Technologies & Skills -->
-### 🛠️ Technologies & Skills
+### Technologies & Skills
 
 - Python(Intermediate, AI/ML)
 - HTML, CSS
@@ -24,7 +24,7 @@
 
 ---
 <!-- Currently learning -->
-### 📚 Currently Learning
+### Currently Learning
 
 - Java
 - pandas — deep knowledge into data manipulation
