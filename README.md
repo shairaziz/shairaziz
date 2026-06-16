@@ -41,7 +41,7 @@
 
 ---
 I'm working towards building handy projects and collaborating on open-source works.
-Please feel welcome to check out my repositories!
+Feel welcome to check out my repositories!
 
 ---
 <!-- Footer -->
