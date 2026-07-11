@@ -6,16 +6,16 @@
 <!-- About me -->
 -  An undergraduate CSE student and a tech enthusiast!
 -  Interested in Artificial Intelligence, Machine Learning and building useful things
--  Goal: Building cool projects, collaborate on open-source works and improve my portfolio
+-  Goal: Build cool projects, collaborate on open-source works and improve my portfolio
 - 💌 shaira.aziz25@gmail.com
   
 ---
 <!-- Technologies & Skills -->
 ### 🔧 Technologies & Skills
 
-- Python(Intermediate), HTML, CSS, Java(Beginner)
-- Assembly(Beginner)
-- MySQL(read/write queries)
+- Python(Intermediate), Java(Beginner)
+- HTML, CSS, Assembly(Beginner)
+- MySQL
 - Canva(designing)
 
 ---
