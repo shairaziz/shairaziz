@@ -6,7 +6,7 @@
 <!-- About me -->
 -  An undergraduate CSE student and a tech enthusiast!
 -  Interested in Artificial Intelligence, Machine Learning and building useful things
--  Goal: Keep building cool projects, collaborate on open-source works and improve my portfolio
+-  Goal: Building cool projects, collaborate on open-source works and improve my portfolio
 - 💌 shaira.aziz25@gmail.com
   
 ---
