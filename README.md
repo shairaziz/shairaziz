@@ -9,22 +9,6 @@
 -  Goal: Build cool projects, collaborate on open-source works and improve my portfolio
 - 💌 shaira.aziz25@gmail.com
   
----
-<!-- Technologies & Skills -->
-### 🔧 Technologies & Skills
-
-- Python(Intermediate), Java(Beginner)
-- HTML, CSS, Assembly(Beginner)
-- MySQL
-- Canva(designing)
-
----
-<!-- Currently learning -->
-### 📌 Currently Learning
-
-- Java
-- pandas 
-- AI & ML concepts 
 
 ---
 <!-- Connect -->
