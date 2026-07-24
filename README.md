@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=header&text=Hi,%20I'm%20Shaira!!👋🏽%20&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=32" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=header&text=Hi,%20I'm%20Shaira!!👋%20&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=32" />
 </div>
 
 <!-- About me -->
