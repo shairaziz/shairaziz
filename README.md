@@ -8,7 +8,6 @@
 -  Interested in Artificial Intelligence, Machine Learning and building useful things
 -  Goal: Build cool projects, collaborate on open-source works and improve my portfolio
 - 💌 shaira.aziz25@gmail.com
-- 📧 shaira.binte.aziz@g.bracu.ac.bd
   
 
 ---
